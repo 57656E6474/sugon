@@ -1,0 +1,11 @@
+{
+  "name": "sugon",
+  "description": "test repository for publishing to NPM",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Ralph Wendt <ralphmadriaga@gmail.com>",
+  "repository": "57656E6474/sugon.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
